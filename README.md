@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Talgin
 - 👀 I’m interested in AI and Game Development (Mobile)
-- 🌱 I’m currently learning Game Development and Machine Learning
-- 💞️ I’m looking to collaborate on projects that involve Computer Vision and Game Development.
+- 💞️ I’m looking to collaborate on projects that involve Computer Vision.
 - 📫 How to reach me: +7 775 103 33 11 (WhatsApp, Telegram)
 
 <!---
